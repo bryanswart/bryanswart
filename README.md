@@ -7,4 +7,4 @@ Currently building: [swart-platform](https://github.com/swart-platform) — IaC,
 Background: 20 years in enterprise security and GRC at AT&T and GM. 
 Now focused on building the infrastructure platforms that security runs on.
 
-📍 Austin, TX | 🔗 www.linkedin.com/in/bryan-swart
+📍 Austin, TX | 🔗 [LinkedIn](www.linkedin.com/in/bryan-swart)
